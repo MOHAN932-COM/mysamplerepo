@@ -1,1 +1,1 @@
-# mysamplerepo
+print("hello world")
